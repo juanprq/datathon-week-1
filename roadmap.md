@@ -9,8 +9,7 @@
 
 ## Preguntas
 
- * Cual es el transporte mas usado, por ano? segun los datos?
- * Cual es el mas usado por zonas?
+ * Cual es el transporte mas usado, por ano? segun los datos?  Cual es el mas usado por zonas?
  * Se ha dejado de usar el transporte publico luego de la aparicion de uber?
  * Como se comporta uber vs los transportes convencionales?
  * En que zonas se usa mas uber?
